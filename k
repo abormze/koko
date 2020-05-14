@@ -1,6 +1,8 @@
 F#EXTM3U
 #EXTINF:-0, ||||||| sports |||||||
 http://www.elahmad.com/tv/m3u8/2ktv.m3u8?id=ktv3
+#EXTINF:0, Alfajertv tv
+http://two.alfajertv.com:8081/AlfajertvHDTwo_web/web/chunks.m3u8
 #EXTINF:0, Raya TV 
 http://htvmada.mada.ps:8888/raya/playlist.m3u8
 #EXTINF:-0,ajeyel tv hd 
